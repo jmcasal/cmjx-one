@@ -20,4 +20,3 @@ Build (Release) extension and click in the xOne.vsix package in the `bin\Release
 
 - [Tutorial - Create your first extension: Hello World](https://docs.microsoft.com/en-us/visualstudio/extensibility/extensibility-hello-world?view=vs-2022)
 
-<base target='_blank' />
