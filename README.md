@@ -1,4 +1,4 @@
-# xOne - a very simple example of visual studio 2022 extension
+xone a very simple example of visual studio 2022 extension
 
 This extension is a very simple example of visual studio 2022 extension, you can use it to begin to learn how to start to code an extension.
 
