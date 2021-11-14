@@ -12,7 +12,7 @@ Yo must test this extension in the visual studio 2022 environment.
 
 ## Install
 
-Build (Relesse) extension and click in the xOne.vsix package in the `bin\Release` folder.
+Build (Release) extension and click in the xOne.vsix package in the `bin\Release` folder.
 
 ## See Also
 
@@ -20,3 +20,4 @@ Build (Relesse) extension and click in the xOne.vsix package in the `bin\Release
 
 - [Tutorial - Create your first extension: Hello World](https://docs.microsoft.com/en-us/visualstudio/extensibility/extensibility-hello-world?view=vs-2022)
 
+<base target='_blank' />
